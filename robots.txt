@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://high-quality-prfume.pages.dev/sitemap.xml
